@@ -1,5 +1,24 @@
 h1{
   text-align: center;
   color: blueviolet;
-  background-color: darkgray;
+  
+  
+}
+
+h2{
+  text-align: center;
+  color: blueviolet;
+  
+  
+}
+
+p{
+  text-align: center;
+  color: rgb(155, 83, 221);
+
+  font-size: 20px;
+}
+
+body{
+  background-color: rgb(212, 212, 212);
 }
