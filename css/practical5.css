@@ -1,0 +1,84 @@
+.main{
+  display: flex;
+  flex-direction: row;
+  padding: 0px;
+  
+  position: relative;
+  
+  
+}
+.myButton{
+  display:block;
+  margin:10px;
+  text-align: center;
+  font-family: arial;
+  background-color: red;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.myButton:hover{
+  background-color: blue;
+}
+a{text-decoration: none;
+  color: white;
+}
+.box1{
+  
+  
+  border: 2px solid none;
+  display: inline-block;
+  width: 300px;
+  height: 400px;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 0.7rem;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 8px;
+  text-align: justify;
+}
+.box2{
+  border: 2px solid none;
+  display: inline-block;
+  width: 300px;
+  height: 400px;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 0.7rem;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 8px;
+  text-align: justify;
+  
+ 
+}
+
+.box3{
+  border: 2px solid none;
+  display: inline-block;
+  width: 300px;
+  height: 400px;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 0.7rem;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 8px;
+  text-align: justify;
+}
+a:hover{
+  background-color: blue;
+}
+.box4{
+  border: 2px solid none;
+  display: inline-block;
+  width: 300px;
+  height: 400px;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 0.7rem;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding: 8px;
+  text-align: justify;
+}
